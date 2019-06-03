@@ -1,6 +1,5 @@
 # aimusic
 Projects that compose lyrics using ai
-<br>하위^^(hawee^^)
 
 # Environments
 * python 3.6
