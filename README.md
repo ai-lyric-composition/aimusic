@@ -8,11 +8,20 @@ Projects that compose lyrics using ai
 * [torch rnn](https://github.com/jcjohnson/torch-rnn)
 
 #  Usage
-1.clone our code
+1. clone our code
 ```
 git clone https://github.com/ai-lyric-composition/aimusic
 ```
-2.add project path to system environment 
+<br>
+2. install dependencies
+
+```
+cd magenta
+pip install -e
+```
+<br>
+3. add project path to system environment 
+
 * add ~/.bash_profile
 ```
 vi ~/.bash_profile
@@ -26,5 +35,7 @@ export PYTHONPATH
 ```
 source ~/.bash_profile
 ```
+<br>
+4. execute our code in [src][src_id] directory!
 
-3.execute our code in [src](https://github.com/ai-lyric-composition/aimusic/tree/master/src) directory!
+[src_id]: https://github.com/ai-lyric-composition/aimusic/tree/master/src
