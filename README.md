@@ -27,6 +27,9 @@ pip3 install virtualenv virtualenvwrapper
 ```
 cd aimusic
 virtualenv --python=python3.6 [your_env_name]
+
+if you get the error "The path x.x does not exist":
+    virtualenv --python=[which python3 PATH] [your_env_name]
 ```
 
 * Third, activate your virtualenv
