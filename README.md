@@ -60,7 +60,7 @@ vi ~/.bash_profile
 ```
 * write ~/.bash_profile
 ```
-PYTHONPATH=$PYTHONPATH:Your Project Root Directory Abs Path
+PYTHONPATH=$PYTHONPATH:"Your Project Root Directory Abs Path"
 export PYTHONPATH
 ```
 * execute ~/.bash_profile
