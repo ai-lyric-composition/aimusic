@@ -26,13 +26,13 @@ pip3 install virtualenv virtualenvwrapper
 
 ```
 cd aimusic
-virtualenv --python=3.6 your_env_name
+virtualenv --python=python3.6 [your_env_name]
 ```
 
 * Third, activate your virtualenv
 
 ```
-source your_env_name/bin/activate
+source [your_env_name]/bin/activate
 ```
 
 Step 3. install tensorflow 1.13.1 & CUDA 10
