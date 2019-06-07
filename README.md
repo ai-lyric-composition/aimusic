@@ -68,3 +68,9 @@ export PYTHONPATH
 source ~/.bash_profile
 ```
 Now, execute our code in [src]( https://github.com/ai-lyric-composition/aimusic/tree/master/src) directory!
+
+
+---
+# Reference 
+1. https://github.com/djosix/Performance-RNN-PyTorch
+2. https://github.com/JesseKuntz/my-piano
