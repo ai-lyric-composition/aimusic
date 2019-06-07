@@ -2,7 +2,7 @@
 Projects that compose lyrics using ai
 
 # Environments
-* python 3.6
+* python >= 3.5
 * tensorflow 1.13.1
 * cuda 10
 * magenta 1.1.1
