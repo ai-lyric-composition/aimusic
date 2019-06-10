@@ -2,7 +2,7 @@
 Projects that compose lyrics using ai
 
 # Environments
-* python 3.6
+* python >= 3.5
 * tensorflow 1.13.1
 * cuda 10
 * magenta 1.1.1
@@ -68,3 +68,12 @@ export PYTHONPATH
 source ~/.bash_profile
 ```
 Now, execute our code in [src]( https://github.com/ai-lyric-composition/aimusic/tree/master/src) directory!
+
+
+---
+# Note number
+![note_number](https://user-images.githubusercontent.com/31815711/59168083-3b0f4d00-8b6f-11e9-83ba-af9ae31869d5.png)
+
+# Reference 
+1. https://github.com/djosix/Performance-RNN-PyTorch
+2. https://github.com/JesseKuntz/my-piano
