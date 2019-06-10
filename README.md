@@ -71,6 +71,9 @@ Now, execute our code in [src]( https://github.com/ai-lyric-composition/aimusic/
 
 
 ---
+# Note number
+![note_number](https://user-images.githubusercontent.com/31815711/59168083-3b0f4d00-8b6f-11e9-83ba-af9ae31869d5.png)
+
 # Reference 
 1. https://github.com/djosix/Performance-RNN-PyTorch
 2. https://github.com/JesseKuntz/my-piano
